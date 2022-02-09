@@ -3,6 +3,10 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    background-image: url("better-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 
 .purchase {
@@ -11,6 +15,7 @@ body {
   font-family: 'Rubik Beastly', cursive;
   font-weight: bold;
   border-radius: 20px;
+  color: aliceblue;
 }
 
 img {
